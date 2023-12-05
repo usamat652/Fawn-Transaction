@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "fawn": "^2.1.5",
+    "mongoose": "^5.13.19"
+  }
+}
